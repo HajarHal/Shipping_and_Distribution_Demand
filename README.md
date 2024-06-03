@@ -14,3 +14,5 @@ Caractéristiques
 Pipeline ETL: Extraction, transformation, et chargement des données pour préparer le dataset pour l'analyse.
 Modélisation Prédictive: Utilisation de modèles statistiques et de machine learning pour prédire la demande future.
 Visualisation Interactive: Tableaux de bord dynamiques pour une interprétation claire et immédiate des tendances de la demande.
+#Lien vers un video d'implémentation de dashboard
+https://drive.google.com/file/d/1jvxsbxajhHDVngQe6mB_HSuJJmTmxnWv/view?usp=sharing
