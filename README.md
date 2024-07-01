@@ -16,3 +16,7 @@ Modélisation Prédictive: Utilisation de modèles statistiques et de machine le
 Visualisation Interactive: Tableaux de bord dynamiques pour une interprétation claire et immédiate des tendances de la demande.
 #Lien vers un video d'implémentation de dashboard
 https://drive.google.com/file/d/1jvxsbxajhHDVngQe6mB_HSuJJmTmxnWv/view?usp=sharing
+
+
+
+https://drive.google.com/drive/folders/1N0d9EGbphxqu9EO3cEYcdfuSYwWWEcJN?usp=sharing
